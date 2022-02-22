@@ -1,0 +1,49 @@
+.abow{
+    height: 200px;
+    background: #09c7e8;
+    width: 1000px;
+    margin: 5px;
+
+}
+p{
+    text-align: center;
+    align-items: center;
+}
+.mather{
+    height: 200px;
+    width: 600px;
+    background: fuchsia;
+    margin: 5px;
+}
+.chaild{
+    height: 190px;
+    width: 190px;
+    background: yellow ;
+    margin: 5px;
+    box-sizing: border-box;
+
+
+}
+.enather{
+    height: 400px;
+    width: 400px;
+    background: black;
+    margin: 5px;
+}
+.famyly{
+    display: flex;
+}
+.toogether{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+
+}
+.wrap{
+    border-radius: 5px;
+    background: #7c051c;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

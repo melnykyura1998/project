@@ -1,0 +1,48 @@
+.wrap{
+    background: #aba5a5;
+    border-radius: 10px;
+    height: 605px;
+    width: 1000px;
+    column-gap: 5px;
+    row-gap: 5px;
+    padding: 5px;
+
+}
+.singl{
+    width: auto;
+    height: 200px;
+    background: #524e4e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+
+}
+.a{
+    font-size: 100px;
+}
+.father{
+    display: flex;
+    /*column-gap: 5px;*/
+
+}
+.together{
+    display: flex;
+    flex-wrap: wrap;
+    width: 750px;
+    column-gap: 5px;
+    row-gap: 5px;
+
+}
+.chaild{ height: 200px;
+    width: 245px;
+    background: #2b2b2b;
+
+}
+.chaild_big{
+    width: 250px;
+    height: auto;
+    background: #2b2b2b;
+}

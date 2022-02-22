@@ -1,0 +1,33 @@
+p{
+    background: cornflowerblue;
+}
+.under p {
+    background: fuchsia;
+}
+h1{
+    color: yellow;
+}
+.av>p{
+    color: red;
+}
+ul{
+    font-size: 12px;
+    color: darkblue;
+}
+.av ul{
+    font-size: 20px;
+    color: red;
+}
+.av ul ul{
+    color: black;
+}
+.av :nth-child(4) h1{
+    background: fuchsia;
+    color: yellow;
+}
+.av ul:nth-child(3n+2){
+    color: aqua;
+}
+.av ul ul:nth-child(2){
+    background: black;
+}

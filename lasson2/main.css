@@ -1,0 +1,29 @@
+.target{
+    width: 200px;
+    height: 200px;
+    background: #fdc501;
+    box-shadow: #2b2b2b 15px 15px;
+    margin: 200px;
+    box-sizing: border-box;
+
+}
+body{
+    margin: 100;
+}
+.target1{
+    width: 200px;
+    height: 200px;
+    background: #fdc501;
+    box-sizing: border-box;
+    box-shadow: #524e4e 15px 15px 5px;
+    margin: 0 auto;
+}
+.target2{
+    width: 200px;
+    height: 200px;
+    background:#fdc501;
+    box-sizing: border-box;
+    margin: 100px auto;
+    box-shadow: #524e4e 15px 15px 5px 5px;
+
+}
